@@ -1,0 +1,23 @@
+aid: stuart
+name: Stuart
+description: 'Stuart is a company surfaced via the API Evangelist harvest backlog (source: apisio-search-qc-2026-10-24)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/stuart/apis.yml
+x-type: company
+x-source: harvest:apisio-search-qc-2026-10-24
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-25'
+modified: '2026-11-25'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://stuart.com
