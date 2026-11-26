@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stuart is a company surfaced via the API Evangelist harvest backlog (source: apisio-search-qc-2026-10-24) and added to the network as a stub for full-pipeline profiling.
-- https://stuart.com
+Stuart is a last‑mile delivery platform helping businesses deliver orders to customers quickly and efficiently. Acquired by Quiver, Stuart offers solutions for restaurants, grocery, retail, e‑commerce, and professional services, providing real‑time tracking, multiple transport options, and pricing from £5.50. Over 25,000 clients trust Stuart for fast, cost‑effective deliveries, with features like scheduled deliveries, courier partnerships, and a developer portal for API integration.
+
+**Areas:** Company · Delivery · Logistics · API · E-commerce
+
+## Stuart on APIs.io
+
+Everything profiled for Stuart is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stuart/](https://apis.io/providers/stuart/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Stuart API](https://apis.io/apis/stuart/stuart-api-2/) — API for Stuart delivery platform, documented at the developer portal.
+- [Stuart API](https://apis.io/apis/stuart/stuart-api/) — Stuart API as documented publicly. Contract generated from the documentation by API Evangelist (2026-11-26); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Stuart API Rules](https://apis.io/rules/stuart/stuart-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stuart Authentication](https://apis.io/security/stuart/stuart-authentication/)
+- [Stuart Domain Security](https://apis.io/security/stuart/stuart-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Stuart Plans Pricing](https://apis.io/plans/stuart/stuart-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stuart.com)
+- [Documentation](https://api-docs.stuart.com/)
+- [Getting started](https://help.stuart.com/en/articles/7007518-getting-started-with-the-stuart-api)
+- [Pricing](https://stuart.com/pricing/)
+- [Support](https://help.stuart.com/)
+- [Blog](https://blog.stuart.com/en)
+- [Terms of service](https://stuart.com/terms/)
+- [Privacy policy](https://stuart.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 49.2** — developing · rubric 0.27.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 23.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stuart/](https://apis.io/providers/stuart/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stuart: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stuart/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
